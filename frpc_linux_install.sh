@@ -14,7 +14,7 @@ Font="\033[0m"
 # variable
 WORK_PATH=$(dirname $(readlink -f $0))
 FRP_NAME=frpc
-FRP_VERSION=0.61.1
+FRP_VERSION=0.62.1
 FRP_PATH=/usr/local/frp
 # 如代理失效请修改这里的代理地址
 PROXY_URL="https://ghproxy.cfd/"
